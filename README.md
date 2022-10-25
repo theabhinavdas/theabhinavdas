@@ -9,7 +9,7 @@ I have over 12 years of experience in technology and engineering including 6 yea
 
 Currently, I work as the Head of Engineering at a tech-powered career services brand, where I lead a cross-functional team of over 60, building unique products that are helping people achieve more in their careers! It's all about the team. I enjoy building high-performing Agile teams.
 
-I live and breathe startups and technology. During my career, I've helped take one company public. I've been part of founding teams of two Web3 companies that raised more than **$25M** in ICO's. I build for the long term.
+I live and breathe startups and technology. During my career, I've helped take one company public. I've been part of founding teams of two Web3 companies that raised more than **$25M** in ICOs. I build for the long term.
 
 In my current role, I have the privilege of building & scaling many career-enhancing and **life-changing** products serving _tens of millions_ of users across the globe.
 
