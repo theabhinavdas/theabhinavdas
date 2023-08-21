@@ -5,7 +5,7 @@
 
 :wave: Hello, world. I am a technologist and engineering leader from Hyderabad, India.
 
-I have over 12 years of experience in technology and engineering including 6 years in management and leadership.
+I have over 13 years of experience in technology and engineering including 7 years in management and leadership.
 
 Currently, I work as the Head of Engineering at a tech-powered career services brand, where I lead a cross-functional team of over 60, building unique products that are helping people achieve more in their careers! It's all about the team. I enjoy building high-performing Agile teams.
 
