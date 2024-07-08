@@ -1,29 +1,37 @@
-# 👨🏻‍💻 [Abhinav Das](https://idontownadomain.ssh)
+# 👨🏻‍💻 [Abhinav Das](https://linkedin.com/in/theabhinavdas)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/theabhinavdas?style=social)](https://twitter.com/intent/follow?screen_name=theabhinavdas)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/theabhinavdas/)](https://www.linkedin.com/in/theabhinavdas/)
 
-:wave: Hello, world. I am a technologist and engineering leader from Hyderabad, India.
+:wave: Hello, world. I'm Abhinav and I love solving problems with tech. I hail from Hyderabad, a city in India famous for its [biryani](https://en.wikipedia.org/wiki/Biryani).
 
-I have over 13 years of experience in technology and engineering including 7 years in management and leadership.
+I have 14 years of experience with breaking and building things. For 8 years now, I've been a manager of managers however I am super hands-on with technology.
 
-Currently, I work as the Head of Engineering at a tech-powered career services brand, where I lead a cross-functional team of over 60, building unique products that are helping people achieve more in their careers! It's all about the team. I enjoy building high-performing Agile teams.
+In my current org, I serve as the Head of Engineering/CTO at a leading [Venture Builder](https://en.wikipedia.org/wiki/Startup_studio). Here, I am mainly involved with:
+1. getting high-quality stuff done on time
+2. bringing great people into the organization
+3. getting someone to replace what I do so I can go do other things
 
-I live and breathe startups and technology. During my career, I've helped take one company public. I've been part of founding teams of two Web3 companies that raised more than **$25M** in ICOs. I build for the long term.
+Previously, I worked as the Head of Engineering for [Talent Inc.](https://talentinc.com), a tech-enabled career services business. Here, my team and I built popular internet brands like [resume.io](https://resume.io), [career.io](https://career.io), [topresume.com](https://topresume.com), and [topcv.com](https://topcv.com). At Talent, I grew the engineering function from ~15 to >60 people. I was also actively involved with coaching and mentoring my people.
 
-In my current role, I have the privilege of building & scaling many career-enhancing and **life-changing** products serving _tens of millions_ of users across the globe.
+Thus far, across my career, I helped take one company public, built numerous 0-1 products, been part of founding teams of two web3 companies that raised more than $25M through ICOs.
 
-If you catch me outside of work, I'm an adventurous traveler - _3 countries_ and counting - and an avid **music lover**! I try to play the violin and the _tabla_ in the Hindustani classical style(s).
+Outside of work, I'm a "traveling foodie" :tm:. _4 countries_ and counting! I care very deeply about music. Especially classical music. Don't worry, I'm not a snob. I currently actively learn the violin and the [_tabla_](https://en.wikipedia.org/wiki/Tabla) in their respective Hindustani classical styles.
 
-I also like meeting new people over a cup of coffee. Feel free to reach out at theabhinavdas [#!/bin/at](https://replace%40with%40the%40at%40symbol) gmail [period](https://a%40full%40stop%40duh) com or DM on Twitter [@theabhinavdas](https://twitter.com/theabhinavdas).
+I like meeting new people and learning new things. So feel free to reach out on my socials:
+- LinkedIn - [Abhinav Das](https://linkedin.com/in/theabhinavdas)
+- Twitter - [@theabhinavdas](https://twitter.com/theabhinavdas)
 
-**Competencies**: Systems design, Large scale web and application development, Distributed computing, Javascript, ReactJS, NodeJS, Python, Kubernetes, AWS, Algorithms, Server administration, Team management, Blockchain, Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), Speech technologies, Optimization, Internet of Things (IoT), Product Management.. and the list goes on tbh.
+**Competencies**: Systems design, Distributed systems, Large scale web and application development, Distributed computing, Javascript, ReactJS, NodeJS, Python, Kubernetes, AWS, Algorithms, Server administration, Team management, Blockchain, Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), Speech technologies, Optimization, Internet of Things (IoT), Product Management.. and the list goes on tbh.
 
 Some of the companies that I have driven digital transformation for in the past are [Boeing](https://www.boeing.com/), [Target](https://www.target.com/), [Axis Bank](https://www.axisbank.com/), [QuackQuack](https://quackquack.in), [SpringRole](https://springrole.com), [Swiggy](https://swiggy.com), [Hexon Global](https://hexonglobal.com), [Dataology Inc](https://dataology.com), and [RxTransparent](https://rxtransparent.com).
 
-⚡️ Fun fact: I'm a state-level badminton player, a potterhead, and a speedcuber.
+⚡️ Lesser known facts about me: 
+- I've been a state-level badminton player
+- I identify as a potterhead
+- I can solve the rubicks cube in under a minute. My younger self could do it in < 14 seconds. But we're all getting older everyday, aren't we?
 
-Here are some [🦜 parrots](https://cultofthepartyparrot.com) along with other common workspace emotions:
+Here are some [🦜 parrots](https://cultofthepartyparrot.com) and other common workspace emotions:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
