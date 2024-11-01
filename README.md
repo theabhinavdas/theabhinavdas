@@ -1,7 +1,7 @@
-# 👨🏻‍💻 [Abhinav Das](https://linkedin.com/in/theabhinavdas)
+# 👨🏻‍💻 [Abhinav Das](https://linkedin.com/in/meetabhinavdas)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/theabhinavdas?style=social)](https://twitter.com/intent/follow?screen_name=theabhinavdas)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/theabhinavdas/)](https://www.linkedin.com/in/theabhinavdas/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/meetabhinavdas/)](https://www.linkedin.com/in/meetabhinavdas/)
 
 :wave: Hello, world. I'm Abhinav and I love solving problems with tech. I hail from Hyderabad, a city in India famous for its [biryani](https://en.wikipedia.org/wiki/Biryani).
 
@@ -19,7 +19,7 @@ Thus far, across my career, I helped take one company public, built numerous 0-1
 Outside of work, I'm a "traveling foodie" :tm:. _4 countries_ and counting! I care very deeply about music. Especially classical music. Don't worry, I'm not a snob. I currently actively learn the violin and the [_tabla_](https://en.wikipedia.org/wiki/Tabla) in their respective Hindustani classical styles.
 
 I like meeting new people and learning new things. So feel free to reach out on my socials:
-- LinkedIn - [Abhinav Das](https://linkedin.com/in/theabhinavdas)
+- LinkedIn - [Abhinav Das](https://linkedin.com/in/meetabhinavdas)
 - Twitter - [@theabhinavdas](https://twitter.com/theabhinavdas)
 
 **Competencies**: Systems design, Distributed systems, Large scale web and application development, Distributed computing, Javascript, ReactJS, NodeJS, Python, Kubernetes, AWS, Algorithms, Server administration, Team management, Blockchain, Machine Learning (ML), Computer Vision (CV), Natural Language Processing (NLP), Speech technologies, Optimization, Internet of Things (IoT), Product Management.. and the list goes on tbh.
